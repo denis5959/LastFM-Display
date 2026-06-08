@@ -20,7 +20,7 @@ Additionally, I love music and thought this would be a great way for people in r
 
 ## Wiring Diagram
 
-[My wiring diagram will go here]
+https://wokwi.com/projects/466281167113619457
 
 
 
